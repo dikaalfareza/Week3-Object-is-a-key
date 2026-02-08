@@ -1,8 +1,10 @@
-# Week3-Object-is-a-key
+# Week 3 - Object is a Key
 
-Selamat datang di modul "Object and Logic" dengan JavaScript! Modul ini dirancang khusus untuk pemula yang telah mempelajari array dan kini siap untuk melangkah ke konsep objek dan penerapan logika dengan objek di JavaScript.
+Selamat datang di modul **"Object and Logic"** dengan JavaScript! 🧙‍♂️
 
-## Apa yang akan Anda pelajari?
+Modul ini dirancang khusus untuk pemula yang telah mempelajari array dan kini siap untuk melangkah ke konsep objek dan penerapan logika dengan objek di JavaScript.
+
+## Apa yang akan Kalian pelajari?
 
 1. **Dasar-dasar Objek**
    - Apa itu objek?
@@ -22,13 +24,13 @@ Selamat datang di modul "Object and Logic" dengan JavaScript! Modul ini dirancan
    - Studi kasus sederhana untuk penerapan nyata
 
 ## Week 3 Study Materials
-- [Object DeepDive](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/blob/main/study-materials/part1.md)
+- [Object DeepDive](./study-materials/part1.md)
 
-## Week 3 Logic Nolep (Quiz)
-- [Part1](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part1)
-- [Part2](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part2)
-- [Part3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/part3)
-- [Ujian Week3](https://github.com/RPN-Phase-0/Week3-Object-is-a-key/tree/main/quiz/ujian)
+## Week 3 Arcane Quest (Quiz)
+- [Part1](./quiz/part1/README.md)
+- [Part2](./quiz/part2/README.md)
+- [Part3](./quiz/part3/README.md)
+- [Ujian Week3](./quiz/ujian/README.md)
 
 ## Dukung Kami
 
@@ -36,4 +38,4 @@ Jika Kalian menemukan repo ini bermanfaat, jangan lupa untuk memberikan bintang 
 
 Selamat belajar dan selamat datang di dunia pemrograman! 🚀
 
-[Discord RPN](https://discord.gg/ufbRBRTKN8)
+[Discord ETHJKT](https://discord.gg/Bb7UF4vuK4)
